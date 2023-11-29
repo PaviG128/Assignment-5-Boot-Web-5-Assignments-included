@@ -1,13 +1,5 @@
 # Assignment-5-Boot-Web-5-Assignments-included
 
-## Getting Started
- 
-### Prerequisites
- 
-- Java (version)
-- Maven or Gradle (version)
-- MySQL or another database (version)
- 
 ### Installation
 1. Clone the repository:
  git clone https://github.com/yourusername/your-project.git
