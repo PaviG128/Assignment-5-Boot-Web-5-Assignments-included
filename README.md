@@ -10,9 +10,9 @@ gradlew clean build # For Gradle
 Access the application at http://localhost:8080.
 
 ## Project Structure
-src/main/java: Java source files.
-src/main/resources: Configuration files and static resources.
-src/test: Test source files.target: Compiled bytecode and build artifacts.
+# src/main/java: Java source files.
+# src/main/resources: Configuration files and static resources.
+# src/test: Test source files.target: Compiled bytecode and build artifacts.
 
 ## Endpoints
 * Login/Validate User
