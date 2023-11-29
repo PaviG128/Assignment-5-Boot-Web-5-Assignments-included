@@ -2,7 +2,7 @@
 
 ### Installation
 1. Clone the repository:
- git clone https://github.com/yourusername/your-project.git
+ git clone https://github.com/PaviG128/Assignment-5-Boot-Web-5-Assignments-included.git
 2. Navigate to the project directory:cd your-project
 3.Build the project:mvn clean install   # For Maven # or
 gradlew clean build # For Gradle
